@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.350,=D:\Documents\Delphi\VAPE\002\logo.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=D:\Documents\Delphi\VAPE\002\juice.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,D:\Documents\Delphi\VAPE\002\VapeCalc.dproj=D:\Documents\Delphi\VAPE\002\AromCalc.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,D:\Documents\Delphi\VAPE\002\Project1.dproj=D:\Documents\Delphi\VAPE\002\VapeCalc.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,=D:\Documents\Delphi\VAPE\002\ava.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,=C:\Users\vers0\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,=E:\Documents\Delphi\VAPE\002\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,E:\Documents\Delphi\VAPE\002\Project1.dproj=C:\Users\vers0\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,=D:\Documents\Delphi\VAPE\002\ak.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,=C:\Users\vers0\Documents\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,=C:\Users\vers0\Documents\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,E:\Documents\Delphi\VAPE\002\Unit1.dfm=C:\Users\vers0\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,E:\Documents\Delphi\VAPE\002\Unit1.pas=C:\Users\vers0\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
